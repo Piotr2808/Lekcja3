@@ -2,22 +2,8 @@ ref1.txt
 
 zwrotka1.txt
 
-Fal nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie
-Fal nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie
+ref2.txt
+
 Pewnie
 Chciałbym ciebie słuchać więcej
 Tylko skoczę w jedno miejsce
