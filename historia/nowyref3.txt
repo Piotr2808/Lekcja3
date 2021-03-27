@@ -1,0 +1,10 @@
+C:\Users\Piotr\Desktop\muzyka>git log -p nowyref3.txt
+commit 187d92b120b57cd91fe3fc1c9cb54a6fed62d504 (HEAD -> master)
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 10:18:27 2021 +0100
+
+    9. Zmiania dwóch plików ref2.txt ref3.txt na nowyref2.txt nowyref3.txt
+
+diff --git a/nowyref3.txt b/nowyref3.txt
+new file mode 100644
+index 0000000..e69de29

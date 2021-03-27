@@ -1,0 +1,77 @@
+C:\Users\Piotr\Desktop\muzyka>git log -p ref1.txt
+commit 86427311978dc3d4b51b860d551bd4ed50b2ae04
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 10:14:00 2021 +0100
+
+    8. Przywrócenie ref.1 komendą gir revert <commit> po czym błąd wiersza poleceń
+
+diff --git a/ref1.txt b/ref1.txt
+index 9596ae3..5209bdc 100644
+--- a/ref1.txt
++++ b/ref1.txt
+@@ -5,3 +5,11 @@ Nie ma fal
+ Nie ma fal
+ Nie ma fal
+ Nie ma faaal
++Fal nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma faaal
++Pięknie
+\ No newline at end of file
+
+commit 2a512af83bf553f9f7e53889f95b6c293e56bd02
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 10:02:23 2021 +0100
+
+    7. Usuniecie połowy refrenu z ref1.txt
+
+diff --git a/ref1.txt b/ref1.txt
+index 5209bdc..9596ae3 100644
+--- a/ref1.txt
++++ b/ref1.txt
+@@ -5,11 +5,3 @@ Nie ma fal
+ Nie ma fal
+ Nie ma fal
+ Nie ma faaal
+-Fal nie ma fal
+-Nie ma fal
+-Nie ma fal
+-Nie ma fal
+-Nie ma fal
+-Nie ma fal
+-Nie ma faaal
+-Pięknie
+\ No newline at end of file
+
+commit 50f6a6eab07c5f5a4810448549c8e4a879576298
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 09:48:02 2021 +0100
+
+    2. Utworzenie pliku ref1.txt
+
+diff --git a/ref1.txt b/ref1.txt
+new file mode 100644
+index 0000000..5209bdc
+--- /dev/null
++++ b/ref1.txt
+@@ -0,0 +1,15 @@
++Fal nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma faaal
++Fal nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma fal
++Nie ma faaal
++Pięknie
+\ No newline at end of file

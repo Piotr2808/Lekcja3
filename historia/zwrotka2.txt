@@ -1,0 +1,24 @@
+C:\Users\Piotr\Desktop\muzyka>git log -p zwrotka2.txt
+commit 663349cd98758147253e08d25ec738dad875ea55
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 09:54:06 2021 +0100
+
+    5. Utworzenie pliku zwrotka2.txt
+
+diff --git a/zwrotka2.txt b/zwrotka2.txt
+new file mode 100644
+index 0000000..d7d847b
+--- /dev/null
++++ b/zwrotka2.txt
+@@ -0,0 +1,11 @@
++Pewnie
++Chciałbym ciebie słuchać więcej
++Tylko skoczę w jedno miejsce
++Potem może znajdę czas
++Wcześniej
++Spotykałem cię codziennie
++Ale teraz kiedy muszę
++Chętniej udałbym się spać
++Proszę daj się znać po tym
++Gdzieś mnie znajdź potem
++Dziś nie popłyniemy bo

@@ -1,0 +1,31 @@
+C:\Users\Piotr\Desktop\muzyka>git log -p zwrotka1.txt
+commit 83c0fa89c900206ca7d5db006e709f14da4a921a
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 09:49:35 2021 +0100
+
+    3. Utworzenie pliku zwrotka1.txt
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..33b1662
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,18 @@
++Rozmawia się całkiem nieźle
++I podoba nam dotychczas każdy obejrzany film
++We mnie
++Problem jest na pewno we mnie
++Nie doszukuj się go w sobie
++W tobie wszytko jest okej
++Może dasz się znać po tym
++Weź mnie znajdź potem
++Dziś nie chce popłynąć bo...
++Chętnie
++Mogę złapać cię za rękę
++Jeśli chcesz wyrzucę każdy przeterminowany sos
++A to śmieszne,
++Nie rozumiem ciebie jeszcze
++Pani mama chciała żebym więcej niż liceum miał
++Ale daj się znać po tym
++Gdzieś mnie znajdź potem
++Dziś nie chcę popłynąć bo
