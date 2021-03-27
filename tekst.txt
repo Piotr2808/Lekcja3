@@ -6,19 +6,4 @@ ref2.txt
 
 zwrotka2.txt
 
-Fal nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie
-Fal nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie ma fal
-Nie
+ref3.txt
