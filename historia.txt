@@ -1,4 +1,11 @@
 C:\Users\Piotr\Desktop\muzyka>git log
+commit d323146d948eb27fea58d8c826937efe31abbe45 (HEAD -> master)
+Author: Piotr <piotr_jasnowski@o2.pl>
+Date:   Sat Mar 27 10:41:28 2021 +0100
+
+    utworzenie pliku z zadania historia.txt
+
+C:\Users\Piotr\Desktop\muzyka>git log
 commit e910ccd4d8cdac0f76cbe5d9ef865c32535b98c9 (HEAD -> master)
 Author: Piotr <piotr_jasnowski@o2.pl>
 Date:   Sat Mar 27 10:36:32 2021 +0100
